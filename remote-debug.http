@@ -1,4 +1,4 @@
-@remote_debug_HostAddress = http://localhost:5022
+@remote_debug_HostAddress = http://localhost:5075
 
 GET {{remote_debug_HostAddress}}/weatherforecast/
 Accept: application/json
